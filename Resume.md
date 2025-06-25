@@ -1,9 +1,13 @@
 
 
+
+
 # 杨政皓  
+<img src="./photo.jpg" alt="my photo" width="100">
+
  (+1) 437-929-5892 | (+86) 199-5750-0780  
  hostsjim22@gmail.com  
- **学习过程全公开**： [GitHub](https://github.com/TT1nKer)
+ **github**： [GitHub](https://github.com/TT1nKer)
 
 ---
 
@@ -77,3 +81,4 @@
  **Email**: hostsjim22@gmail.com  
  **Phone**: (+1) 437-929-5892 | (+86) 199-5750-0780  
  **GitHub**: [GitHub](https://github.com/TT1nKer)
+
